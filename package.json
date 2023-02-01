@@ -1,17 +1,14 @@
 {
-  "name": "opennebula",
+  "name": "@gluestack/opennebula-nodejs",
   "description": "OpenNebula XML-RPC API client.",
-  "version": "1.0.12",
-  "author": "Pedro Dias <petermdias@gmail.com>",
-  "maintainers": [
-    "apocas <petermdias@gmail.com>"
-  ],
+  "version": "0.0.1",
+  "author": "Shivam Singhal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apocas/node-one.git"
+    "url": "https://github.com/gluestack/opennebula-nodejs.git"
   },
   "bugs": {
-    "url": "https://github.com/apocas/node-one/issues"
+    "url": "https://github.com/gluestack/opennebula-nodejs/issues"
   },
   "dependencies": {
     "xml2js": "0.4.4",
